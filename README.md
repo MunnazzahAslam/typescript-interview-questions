@@ -52,7 +52,7 @@
 | 48. | Explain the concept of inheritance in TypeScript. |
 | 49. | What are conditional types? How do you create them? |
 | 50. | What is the Function type in TypeScript? |
-| 51.  | List some of the utility types provided by TypeScript and explain their usage. |
+| 51. | List some of the utility types provided by TypeScript and explain their usage. |
 
 # 1. What is TypeScript, and why would I use it in place of JavaScript?
 
@@ -75,6 +75,12 @@
 
 # 3. Do we need to compile TypeScript files and why? 
 
+Yes we do. Typescript is just a language Extension browsers can't interpret it. Converting from TypeScript to JavaScript is called compiling. Compiling doesn't mean binary code is created in this case. For this kind of translation, also the term transpilation is used instead of compilation (Compiling is the process of taking source code written in one language and transforming it into another. Transpiling is the process of taking source code written in one language and transforming it into another language that has a similar level of abstraction).
+
 ---
 
 # 4. List the built-in types in Typescript?
+
+---
+
+
