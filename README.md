@@ -51,8 +51,7 @@
 | 47. | What are template literal types? |
 | 48. | Explain the concept of inheritance in TypeScript. |
 | 49. | What are conditional types? How do you create them? |
-| 50. | What is the Function type in TypeScript? |
-| 51. | List some of the utility types provided by TypeScript and explain their usage. |
+| 50. | List some of the utility types provided by TypeScript and explain their usage. |
 
 # 1. What is TypeScript, and why would I use it in place of JavaScript?
 
@@ -262,10 +261,15 @@ You can always call a value of the Function type, and it returns a value of ‘a
 ---
 
 # 21. How to create objects in TypeScript?
+
+Objects are dictionary-like collections of keys and values. The keys have to be unique. They are similar to arrays and are also sometimes called associative arrays. However, an array uses numbers to index the values, whereas an object allows you to use any other type as the key.
   
 ---
   
 # 22. Explain the different variants of the for loop in TypeScript.
+
+
+
 ---
 # 23. Explain the symbol type in TypeScript.
 ---
@@ -321,9 +325,7 @@ You can always call a value of the Function type, and it returns a value of ‘a
 ---
 # 49. What are conditional types? How do you create them?
 ---
-# 50. What is the Function type in TypeScript?
----
-# 51. List some of the utility types provided by TypeScript and explain their usage.
+# 50. List some of the utility types provided by TypeScript and explain their usage.
 
 
 
